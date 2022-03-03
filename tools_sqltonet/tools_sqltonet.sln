@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31229.75
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tools_sqltonet", "tools_sqltonet\tools_sqltonet.csproj", "{94B5EC69-F0C5-4E16-B983-F24312E40A81}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "mysqldriver", "mysqldriver\mysqldriver.csproj", "{7F82751E-32A6-4010-B45F-3220AA9CDA67}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "sqlserverdriver", "sqlserverdriver\sqlserverdriver.csproj", "{A8524D0D-55A5-4569-8097-EF5486A52EB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tool_common", "tool_common\tool_common.csproj", "{89F17025-E174-4867-82AC-6E917A9B536B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{94B5EC69-F0C5-4E16-B983-F24312E40A81}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{94B5EC69-F0C5-4E16-B983-F24312E40A81}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{94B5EC69-F0C5-4E16-B983-F24312E40A81}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{94B5EC69-F0C5-4E16-B983-F24312E40A81}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7F82751E-32A6-4010-B45F-3220AA9CDA67}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7F82751E-32A6-4010-B45F-3220AA9CDA67}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7F82751E-32A6-4010-B45F-3220AA9CDA67}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7F82751E-32A6-4010-B45F-3220AA9CDA67}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A8524D0D-55A5-4569-8097-EF5486A52EB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A8524D0D-55A5-4569-8097-EF5486A52EB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A8524D0D-55A5-4569-8097-EF5486A52EB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A8524D0D-55A5-4569-8097-EF5486A52EB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89F17025-E174-4867-82AC-6E917A9B536B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89F17025-E174-4867-82AC-6E917A9B536B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89F17025-E174-4867-82AC-6E917A9B536B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89F17025-E174-4867-82AC-6E917A9B536B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {336B6192-4E7F-4722-9279-9B578FED11A6}
+	EndGlobalSection
+EndGlobal

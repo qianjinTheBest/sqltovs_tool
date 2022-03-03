@@ -1,0 +1,4 @@
+{
+  "SqlClientConnecting": "Data Source=.;Initial Catalog=demo;Persist Security Info=True;User ID=sa;Password=123456;MultipleActiveResultSets=True",
+  "MySqlConnecting": "Data Source=localhost;Port=3306;User ID=root;Password=123456;Initial Catalog=demo;Charset=utf8mb4;SslMode=none;Max pool size=1;Connection LifeTime=20"
+}
